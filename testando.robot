@@ -25,8 +25,8 @@ ${input_current}                   xpath= //*[@id="currentAddress"]
 
 ${buttons_gender}                  xpath= //*[@id="genterWrapper"]/div[2]/div[1]
 ${buttons_hobbies}                 xpath= //*[@id="hobbiesWrapper"]/div[2]/div[1]/label
-${buttons_dateOfBirth}                 xpath= //*[@id="dateOfBirthInput"]
-${buttons_dateOfBirth17}               xpath= //*[@id="dateOfBirth"]/div[2]/div[2]/div/div/div[2]/div[1]/div[1] 
+${buttons_dateOfBirth}             xpath= //*[@id="dateOfBirthInput"]
+${buttons_dateOfBirth17}           xpath= //*[@id="dateOfBirth"]/div[2]/div[2]/div/div/div[2]/div[1]/div[1] 
 
 *** Keywords ***
 Given que eu esteja no site do DemoQA
